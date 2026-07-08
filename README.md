@@ -1,4 +1,4 @@
-# Neural Networks and Deep Learning lab
+# Neural Networks and Deep Learning 
 Course Outcomes
 1. Understand the fundamental concepts of deep learning and neural network architectures
 2. Apply different techniques to develop and optimize deep learning models.
